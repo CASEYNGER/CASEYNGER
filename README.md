@@ -10,7 +10,8 @@ I'm inspired by creativity: I love making music, playing musical instruments, an
 ## 🛠️ Skills and Technologies  
 
 🔍 **Currently learning**:  
-- Python  
+- Python
+- HTML & CSS
 - Django Framework  
 - PostgreSQL  
 - Algorithms and data structures  
