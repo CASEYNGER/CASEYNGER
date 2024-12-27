@@ -13,7 +13,7 @@ I'm inspired by creativity: I love making music, playing musical instruments, an
 - Python
 - HTML & CSS
 - Django Framework  
-- PostgreSQL  
+- PostgreSQL, SQLite  
 - Algorithms and data structures  
 - OOP (Object-Oriented Programming)  
 
