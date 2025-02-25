@@ -12,10 +12,12 @@ I'm inspired by creativity: I love making music, playing musical instruments, an
 🔍 **Currently learning**:  
 - Python
 - HTML & CSS
-- Django Framework  
+- Django Framework
+- Aiogram 3
 - PostgreSQL, SQLite  
 - Algorithms and data structures  
-- OOP (Object-Oriented Programming)  
+- OOP (Object-Oriented Programming)
+- Testing (Pytest, Unittest)
 
 💡 **Planning to learn**:  
 - Docker  
