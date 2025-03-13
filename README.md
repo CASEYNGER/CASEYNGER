@@ -12,16 +12,20 @@ I'm inspired by creativity: I love making music, playing musical instruments, an
 🔍 **Currently learning**:  
 - Python
 - HTML & CSS
-- Django Framework
-- Aiogram 3
-- PostgreSQL, SQLite  
+- Frameworks: Django, Aiogram, TeleBot
+- Asynchronous Programming: asyncio
+- HTTP Requests: requests
+- DB: PostgreSQL, SQLite
+- ORM: SQLalchemy
+- API: RESTful API
 - Algorithms and data structures  
 - OOP (Object-Oriented Programming)
-- Testing (Pytest, Unittest)
+- Testing: Pytest, Unittest
+- Version Control: Git, GitHub
+- Security: Basic web security concepts (CSRF, XSS, SQL Injection)
 
 💡 **Planning to learn**:  
 - Docker  
-- FastAPI  
 - CI/CD  
 - Software architecture and design patterns  
 
