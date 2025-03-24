@@ -9,15 +9,15 @@ I'm inspired by creativity: I love making music, playing musical instruments, an
 
 ## 🛠️ Skills and Technologies  
 
-🔍 **Currently learning**:  
+🔍 **Tech Stack**:  
 - Python
 - HTML & CSS
-- Frameworks: Django, Aiogram, TeleBot
+- Frameworks: Django, Django REST Framework (DRF), Aiogram, TeleBot
 - Asynchronous Programming: asyncio
 - HTTP Requests: requests
 - DB: PostgreSQL, SQLite
 - ORM: SQLalchemy
-- API: RESTful API
+- API: RESTful API, DRF, Postman (for API testing)
 - Algorithms and data structures  
 - OOP (Object-Oriented Programming)
 - Testing: Pytest, Unittest
