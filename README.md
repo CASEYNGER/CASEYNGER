@@ -20,7 +20,7 @@ I'm inspired by creativity: I love making music, playing musical instruments, an
 - API: RESTful API, DRF, Postman (for API testing)
 - Algorithms and data structures  
 - OOP (Object-Oriented Programming)
-- Testing: Pytest, Unittest
+- Testing: Pytest, Unittest, Postman
 - Version Control: Git, GitHub
 - Security: Basic web security concepts (CSRF, XSS, SQL Injection)
 
