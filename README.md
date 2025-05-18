@@ -2,51 +2,58 @@
 
 > *"The journey of a thousand miles begins with a single step"* — Lao Tzu
 
-Hi there! I'm **Ivan Kobzev**, an aspiring **backend developer** currently studying at [Yandex Practicum](https://practicum.yandex.ru/) in the **Backend Development** program.  
-I'm inspired by creativity: I love making music, playing musical instruments, and drawing ideas from art. 🎶  
+Hi there! I'm **Ivan Kobzev**, a backend developer focused on building clean, efficient, and scalable web applications.  
+I specialize in Python-based backend technologies and have experience working with APIs, databases, and asynchronous systems.
 
 ---
 
-## 🛠️ Skills and Technologies  
+## 🛠️ Tech Skills
 
-🔍 **Tech Stack**:  
-- Python
-- HTML & CSS
-- Frameworks: Django, Django REST Framework (DRF), Aiogram, TeleBot
-- Asynchronous Programming: asyncio
-- HTTP Requests: requests
-- DB: PostgreSQL, SQLite
-- ORM: SQLalchemy
-- API: RESTful API, DRF, Postman (for API testing)
-- Algorithms and data structures  
-- OOP (Object-Oriented Programming)
-- Testing: Pytest, Unittest, Postman
-- Version Control: Git, GitHub
-- Security: Basic web security concepts (CSRF, XSS, SQL Injection)
+### 💻 Core Technologies
+- **Python**, OOP, data structures & algorithms
+- **Django**, **Django REST Framework**
+- **FastAPI** with **Uvicorn**
+- **Pydantic** for data validation and serialization
+- Asynchronous programming with **asyncio**
+- HTTP: `requests`, `httpx`
+- RESTful API design & testing with **Postman**
+- **SQLAlchemy ORM**, **PostgreSQL**, **SQLite**
+- **HTML**, **CSS**
+- Version control: **Git**, GitHub
 
-💡 **Planning to learn**:  
-- Docker  
-- CI/CD  
-- Software architecture and design patterns  
+### 🧪 Testing
+- **Pytest**, **Unittest**, Postman
+  
+### 🔐 Web Security (Basics)
+- CSRF, XSS, SQL Injection, safe coding practices
+
+### 🤖 Telegram Bots
+- **Aiogram**
+- **TeleBot** (pyTelegramBotAPI)
+- Webhooks & polling modes, inline keyboards, state management
 
 ---
 
-## 🎯 Goals  
-- Build reliable, scalable, and user-friendly backend systems.  
-- Transform ideas into functional projects.  
-- Inspire others and share knowledge along the way.  
+## 🖥️ Deployment & Server Management
+
+- 🔧 App deployment using **Gunicorn** and **Uvicorn**
+- 🔁 Process management with **systemd**
+- ⚙️ Server configuration, environment variables, `.env` setup
+  
+---
+
+## 🚀 Learning Goals
+
+- 🐳 **Docker** & container orchestration
+- 🔁 **CI/CD pipelines**
+- 🧱 Software architecture and design patterns
+- 📦 Advanced dependency injection and modular FastAPI structure
 
 ---
 
 ## 📬 How to Reach Me?  
 - 📧 **E-mail:** [iam@caseynger.ru](mailto:iam@caseynger.ru)  
 - 💬 **Telegram:** [@furioushansel](https://t.me/furioushansel)  
-
----
-
-## 🎵 About Me  
-Outside of programming, I create music — composing my own tracks and playing various musical instruments.  
-This hobby fuels my creativity and helps me bring a fresh perspective to coding.  
 
 ---
 
