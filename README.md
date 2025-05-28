@@ -39,16 +39,9 @@ I specialize in Python-based backend technologies and have experience working wi
 - 🔧 App deployment using **Gunicorn** and **Uvicorn**
 - 🔁 Process management with **systemd**
 - ⚙️ Server configuration, environment variables, `.env` setup
+- 🐳 Docker — containerization and orchestration
+- 🔄 CI/CD pipelines with GitHub Actions — automated testing, build, and deployment workflows
   
----
-
-## 🚀 Learning Goals
-
-- 🐳 **Docker** & container orchestration
-- 🔁 **CI/CD pipelines**
-- 🧱 Software architecture and design patterns
-- 📦 Advanced dependency injection and modular FastAPI structure
-
 ---
 
 ## 📬 How to Reach Me?  
